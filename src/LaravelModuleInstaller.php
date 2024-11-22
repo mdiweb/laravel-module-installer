@@ -8,7 +8,7 @@ use Joshbrw\LaravelModuleInstaller\Exceptions\LaravelModuleInstallerException;
 
 class LaravelModuleInstaller extends LibraryInstaller
 {
-    const DEFAULT_ROOT = "Modules";
+    const DEFAULT_ROOT = "modules";
 
     /**
      * {@inheritDoc}
